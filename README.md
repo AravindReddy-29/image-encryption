@@ -137,6 +137,6 @@ Saved as: decrypted.png
 
 ## Author
 
-**Muthoju Vishista**
+**Goraka Aravind reddy**
 
 Cyber Security Intern – Prodigy InfoTech
